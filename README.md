@@ -39,7 +39,7 @@ Here are some other fields that we use for evaluation and analysis:
 * top_sentences_IR: List of strings. A list of top sentences (at most 10) based on IR score with the question. 
  
 # Dataset Statistics
-Our dataset consists of 923k questions, 3.6M ansheers and 14M reviews across 156k products. 
+Our dataset consists of 923k questions, 3.6M answers and 14M reviews across 156k products. 
 We build on the well-known Amazon dataset -  
 * [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
 * [Amazon QA Data](http://jmcauley.ucsd.edu/data/amazon/qa/)
